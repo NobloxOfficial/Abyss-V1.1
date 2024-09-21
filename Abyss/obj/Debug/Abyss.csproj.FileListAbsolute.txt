@@ -1,0 +1,13 @@
+C:\Users\cfort\source\repos\Abyss\Abyss\bin\Debug\Guna.UI2.dll
+C:\Users\cfort\source\repos\Abyss\Abyss\obj\Debug\Abyss.csproj.AssemblyReference.cache
+C:\Users\cfort\source\repos\Abyss\Abyss\obj\Debug\Abyss.Properties.Resources.resources
+C:\Users\cfort\source\repos\Abyss\Abyss\obj\Debug\Abyss.csproj.GenerateResource.cache
+C:\Users\cfort\source\repos\Abyss\Abyss\obj\Debug\Abyss.csproj.CoreCompileInputs.cache
+C:\Users\cfort\source\repos\Abyss\Abyss\obj\Debug\Abyss.csproj.Up2Date
+C:\Users\cfort\source\repos\Abyss\Abyss\obj\Debug\Abyss.Abyss.resources
+C:\Users\cfort\source\repos\Abyss\Abyss\bin\Debug\FastColoredTextBox.dll
+C:\Users\cfort\source\repos\Abyss\Abyss\bin\Debug\Abyssexec.exe.config
+C:\Users\cfort\source\repos\Abyss\Abyss\bin\Debug\Abyssexec.exe
+C:\Users\cfort\source\repos\Abyss\Abyss\bin\Debug\Abyssexec.pdb
+C:\Users\cfort\source\repos\Abyss\Abyss\obj\Debug\Abyssexec.exe
+C:\Users\cfort\source\repos\Abyss\Abyss\obj\Debug\Abyssexec.pdb

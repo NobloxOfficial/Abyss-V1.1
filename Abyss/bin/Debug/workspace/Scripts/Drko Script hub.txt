@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NobloxOfficial/DrkoV2.1/main/DrkoV2.1.0"))()
